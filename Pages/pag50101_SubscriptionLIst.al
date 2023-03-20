@@ -2,16 +2,21 @@ page 50101 "CSD Subscription List"
 {
     Caption = 'Subscription List';
     PageType = List;
-    ApplicationArea = All;
+    ApplicationArea = all;
     UsageCategory = Lists;
     SourceTable = "csd subscription";
-
+    Editable = false;
+    CardPageId = "CSD Subscription Card";
     layout
     {
         area(Content)
         {
-            repeater(GroupName)
+            repeater(Group)
             {
+                field(Code; rec.Code)
+                { ApplicationArea = All; }
+                field(Name; rec.Name)
+                { ApplicationArea = All; }
                 field("Item No."; Rec."Item No.")
                 {
                     ApplicationArea = All;

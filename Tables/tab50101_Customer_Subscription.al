@@ -43,6 +43,7 @@ table 50101 "CSD Customer Subscription"
                             "Start Date" := WorkDate();
                     end;
                     "next Invoice Date" := "start date";
+                    Active := TRUE;
                 end;
             end;
         }
