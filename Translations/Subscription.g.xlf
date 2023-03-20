@@ -2,7 +2,48 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Subscription">
     <body>
-      <group id="body" />
+      <group id="body">
+        <trans-unit id="Table 1331011729 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSD Subscription - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1331011729 - Field 866715734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deferral Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSD Subscription - Field Deferral Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1331011729 - Field 1142705288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing Frequence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSD Subscription - Field Invoicing Frequence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1331011729 - Field 1276835235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSD Subscription - Field Invoicing Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1331011729 - Field 1264738611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing Schedule</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSD Subscription - Field Invoicing Schedule - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1331011729 - Field 1264738611 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date,Beginning of Period,End of Period,Beginning of Next Period</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSD Subscription - Field Invoicing Schedule - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1331011729 - Field 1763702386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSD Subscription - Field Item Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1331011729 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSD Subscription - Field Name - Property Caption</note>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
